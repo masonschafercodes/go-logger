@@ -6,6 +6,8 @@
 
 A light-weight [Go](http://golang.org) package for printing nicely formatted errors
 
+![code image](https://i.ibb.co/xgsKNLB/image.png)
+
 ## Installation
 
 `go get -u github.com/masonschafercodes/go-logger`
